@@ -196,6 +196,15 @@ header {
     margin: -5px 0 3px 1.8em;
   }
 
+  #post blockquote {
+    margin: 0 30px;
+    border: 3px solid #ddd;
+    border-top: 0; border-bottom: 0;
+    padding: 1px 15px;
+    background-color: #f8f8f8;
+    font-style: italic;
+  }
+
   #post code {
     border: 1px solid #ddd;
     background-color: #eef;

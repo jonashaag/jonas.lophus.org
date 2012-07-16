@@ -1,5 +1,5 @@
 dummy:
-	@echo "Usage: make [publish | server | generate]"
+	@echo "Usage: make [publish | serve | generate]"
 
 generate:
 	pyll
