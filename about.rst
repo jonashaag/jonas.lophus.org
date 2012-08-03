@@ -9,9 +9,14 @@ all sorts of programming frameworks, ...
 I have been a free software contributor since 2006, either through bug reports,
 documentation or patches. 
 
+Most of my projects_ are written in the Python programming language.
+
 I study computer science in `Karlsruhe, Germany <http://kit.edu/study/>`_.
 
-Most of my projects_ are written in the Python programming language.
+Besides hacking I also enjoy playing the guitar, listening to music_, tennis
+and sports in general, cooking, volunteering, ...
+
+I may be available for hire if your project is interesting (our you pay well :-)
 
 You can get in touch
 
@@ -21,3 +26,4 @@ You can get in touch
 .. _projects: /projects.html
 .. _GitHub: https://github.com/jonashaag
 .. _mail: mailto:jonas[guesswhat]lophus.org
+.. _music: http://en.wikipedia.org/wiki/Progressive_metal
