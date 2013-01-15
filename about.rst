@@ -16,7 +16,7 @@ I study computer science in `Karlsruhe, Germany <http://kit.edu/study/>`_.
 Besides hacking I also enjoy playing the guitar, listening to music_, tennis
 and sports in general, cooking, volunteering, ...
 
-I may be available for hire if your project is interesting (our you pay well :-)
+I may be available for hire_ if your project is interesting (our you pay well :-)
 
 You can get in touch
 
@@ -27,3 +27,4 @@ You can get in touch
 .. _GitHub: https://github.com/jonashaag
 .. _mail: mailto:jonas[guesswhat]lophus.org
 .. _music: http://en.wikipedia.org/wiki/Progressive_metal
+.. _hire: http://careers.stackoverflow.com/jonashaag
