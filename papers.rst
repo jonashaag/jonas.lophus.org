@@ -41,3 +41,4 @@ Papers
 * `Hybrid Type Checking </papers/hybrid-typing.ps>`_ (Cormac Flanagan, 2006)
 * `X10 Language Specification </papers/x10-latest.pdf>`_, chapter 4.5 on
   constrained types
+* `Getting Started with Z3: A Guide <http://rise4fun.com/Z3/tutorial/guide>`_ (Microsoft research, 2013)
