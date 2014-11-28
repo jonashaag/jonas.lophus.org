@@ -22,6 +22,7 @@ Books
 
 Papers
 ======
+* `Random feedback weights support learning in deep neural networks <http://arxiv.org/abs/1411.0247>`_
 * `The Adventures of a Pythonista in Schemeland
   </2012/02/the-adventures-of-a-pythonista-in-schemeland.html>`_
   (Michele Simionato, 2009)
